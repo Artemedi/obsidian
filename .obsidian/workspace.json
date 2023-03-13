@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "d9d74bcc8d793146",
+    "type": "split",
+    "children": [
+      {
+        "id": "500df58fd73be189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bf72113d92d9287",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Материалы для чтения.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a65732d7c5f416a4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "MSSQL/content/Pasted image 20230305204556.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "39e27dba3ee1257f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba02418a7be15af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff95d15ac9009e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8eb7656f0de7d6c0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41e9cceceb674973",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "62f01232c0b942c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "616c64869c438e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfd7886ecf457d32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MSSQL/content/Pasted image 20230305204556.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "97a4deb83d9db32f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MSSQL/content/Pasted image 20230305204556.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c7f9870e0db00f0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "341537cd972bb42a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MSSQL/content/Pasted image 20230305204556.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "3ff95d15ac9009e7",
+  "lastOpenFiles": [
+    "MSSQL/Агрегатные оконные функции T-SQL.md",
+    "MSSQL/content/Pasted image 20230305211159.png",
+    "MSSQL/content/Pasted image 20230305211113.png",
+    "MSSQL/content/Pasted image 20230305211054.png",
+    "MSSQL/content/Pasted image 20230305204605.png",
+    "MSSQL/content/Pasted image 20230305204556.png",
+    "PG/Индексы в PostgreSQL ч.1.md",
+    "desktop.ini",
+    "Материалы для чтения.md",
+    "MSSQL/Версионность против блокировок в СУБД.md",
+    "PG/Книги.md",
+    "PG/10 способов сделать резервную копию в PostgreSQL.md",
+    "PG/Анатомия Connection Pooling.md",
+    "MSSQL/content/Pasted image 20230305211428.png",
+    "MSSQL/content/Pasted image 20230305211418.png",
+    "MSSQL/content/Pasted image 20230305211400.png",
+    "MSSQL/content/Pasted image 20230305211353.png",
+    "MSSQL/content/Pasted image 20230305211331.png",
+    "Без названия.md",
+    "content",
+    "MSSQL/content",
+    "PG/content",
+    "Без названия.canvas",
+    "MSSQL",
+    "MySQL",
+    "PG"
+  ]
+}
