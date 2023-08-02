@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cab4ae0800e5d2cf",
+        "id": "9a19cb4b7bafc9bd",
         "type": "tabs",
         "children": [
           {
-            "id": "49800ea782a54bf0",
+            "id": "37a2f64e92980731",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5
+    "width": 282.5
   },
   "right": {
     "id": "eb3dbe1947973b86",
@@ -154,7 +154,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "49800ea782a54bf0",
+  "active": "37a2f64e92980731",
   "lastOpenFiles": [
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
