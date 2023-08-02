@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0cb6c4ea43bdb295",
+        "id": "cab4ae0800e5d2cf",
         "type": "tabs",
         "children": [
           {
-            "id": "c3f4a8326773f627",
+            "id": "49800ea782a54bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
-                "mode": "preview",
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md"
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md"
               }
             }
           }
@@ -154,10 +154,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c3f4a8326773f627",
+  "active": "49800ea782a54bf0",
   "lastOpenFiles": [
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-8.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/chrome_MjvtU4FRyx.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-7.png",
