@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
+                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
+                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
+                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md"
+                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md"
               }
             }
           }
@@ -156,13 +156,18 @@
   },
   "active": "c3f4a8326773f627",
   "lastOpenFiles": [
+    "Pasted image 20230706115430.png",
+    "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
     "SQL/MSSQL/Агрегатные оконные функции T-SQL.md",
+    "SQL/MSSQL/Версионность против блокировок в СУБД.md",
+    "SQL/Материалы для чтения.md",
+    "Pasted image 20230706135903.png",
+    "Pasted image 20230706143808.png",
     "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
     "SQL/MSSQL/content/PR_KJ_PlanWarnings.png",
     "SQL/MSSQL/content/PR_KJ_PlanWarnings.png.crdownload",
     "SQL/MSSQL/content/PR_KJ_TopSQLQuery.png",
     "SQL/MSSQL/content/PR_KJ_TopSQLQuery.png.crdownload",
-    "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
     "SQL/MSSQL/content/PR_KJ_DashboardInvestigate.png",
     "SQL/MSSQL/content/PR_KJ_DashboardInvestigate.png.crdownload",
     "SQL/MSSQL/content/pa-ws.png",
@@ -177,15 +182,11 @@
     "SQL/MSSQL/content/Plan_23.png.crdownload",
     "SQL/MSSQL/content/Plan_22.png",
     "SQL/MSSQL/content/Plan_22.png.crdownload",
-    "SQL/MSSQL/content/Plan_21.png",
     "SQL/MSSQL/content/Plan_21.png.crdownload",
-    "SQL/MSSQL/content/Plan_20.png",
     "SQL/MSSQL/content/Plan_20.png.crdownload",
-    "SQL/MSSQL/content/Plan_19.png",
     "Pasted image content/Plan_1.png 1.md",
     "Pasted image content/Plan_1.png.md",
     "Pasted image Plan_1.png.md",
-    "SQL/Материалы для чтения.md",
     "Ссылочная целостность является важной для баз данных.md",
     "[[.md",
     "1.md",
