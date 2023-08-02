@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
-                "mode": "source",
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md"
+                "file": "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md"
               }
             }
           }
@@ -156,34 +156,36 @@
   },
   "active": "c3f4a8326773f627",
   "lastOpenFiles": [
-    "Pasted image 20230706115430.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-8.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/chrome_MjvtU4FRyx.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-7.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/chrome_3ht8OW4EaG.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-6.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/chrome_TGC3tesYhV.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-5.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/chrome_qN7L0V1iZ0.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 2-4.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/chrome_rxB6hIWi06.png",
     "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
+    "SQL/MSSQL/Plan/Типы планов выполнения SQL Server.md",
     "SQL/MSSQL/Агрегатные оконные функции T-SQL.md",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content",
     "SQL/MSSQL/Версионность против блокировок в СУБД.md",
     "SQL/Материалы для чтения.md",
-    "Pasted image 20230706135903.png",
-    "Pasted image 20230706143808.png",
     "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
-    "SQL/MSSQL/content/PR_KJ_PlanWarnings.png",
     "SQL/MSSQL/content/PR_KJ_PlanWarnings.png.crdownload",
-    "SQL/MSSQL/content/PR_KJ_TopSQLQuery.png",
     "SQL/MSSQL/content/PR_KJ_TopSQLQuery.png.crdownload",
-    "SQL/MSSQL/content/PR_KJ_DashboardInvestigate.png",
     "SQL/MSSQL/content/PR_KJ_DashboardInvestigate.png.crdownload",
-    "SQL/MSSQL/content/pa-ws.png",
     "SQL/MSSQL/content/pa-ws.png.crdownload",
-    "SQL/MSSQL/Plan/Типы планов выполнения SQL Server.md",
     "SQL/MSSQL/Index/sqlserver_indexanalysis.md",
     "SQL/PG/How to install PostgreSQL 15 on Ubuntu.md",
     "SQL/MSSQL/Index",
-    "SQL/MSSQL/content/Plan_24.png",
     "SQL/MSSQL/content/Plan_24.png.crdownload",
-    "SQL/MSSQL/content/Plan_23.png",
     "SQL/MSSQL/content/Plan_23.png.crdownload",
-    "SQL/MSSQL/content/Plan_22.png",
     "SQL/MSSQL/content/Plan_22.png.crdownload",
     "SQL/MSSQL/content/Plan_21.png.crdownload",
-    "SQL/MSSQL/content/Plan_20.png.crdownload",
     "Pasted image content/Plan_1.png 1.md",
     "Pasted image content/Plan_1.png.md",
     "Pasted image Plan_1.png.md",
