@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e58c386592c6db",
+        "id": "0cb6c4ea43bdb295",
         "type": "tabs",
         "children": [
           {
-            "id": "0fc5cb2f69e5de04",
+            "id": "c3f4a8326773f627",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/PG/Анатомия Connection Pooling.md",
+                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "fb58426fb0af7f00",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 425.5
   },
   "right": {
     "id": "eb3dbe1947973b86",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/PG/Анатомия Connection Pooling.md",
+                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/PG/Анатомия Connection Pooling.md",
+                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/PG/Анатомия Connection Pooling.md"
+                "file": "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md"
               }
             }
           }
@@ -146,8 +154,46 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0fc5cb2f69e5de04",
+  "active": "c3f4a8326773f627",
   "lastOpenFiles": [
+    "SQL/MSSQL/Агрегатные оконные функции T-SQL.md",
+    "SQL/MSSQL/Статистика ожидания PAGEIOLATCH_SH.md",
+    "SQL/MSSQL/content/PR_KJ_PlanWarnings.png",
+    "SQL/MSSQL/content/PR_KJ_PlanWarnings.png.crdownload",
+    "SQL/MSSQL/content/PR_KJ_TopSQLQuery.png",
+    "SQL/MSSQL/content/PR_KJ_TopSQLQuery.png.crdownload",
+    "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
+    "SQL/MSSQL/content/PR_KJ_DashboardInvestigate.png",
+    "SQL/MSSQL/content/PR_KJ_DashboardInvestigate.png.crdownload",
+    "SQL/MSSQL/content/pa-ws.png",
+    "SQL/MSSQL/content/pa-ws.png.crdownload",
+    "SQL/MSSQL/Plan/Типы планов выполнения SQL Server.md",
+    "SQL/MSSQL/Index/sqlserver_indexanalysis.md",
+    "SQL/PG/How to install PostgreSQL 15 on Ubuntu.md",
+    "SQL/MSSQL/Index",
+    "SQL/MSSQL/content/Plan_24.png",
+    "SQL/MSSQL/content/Plan_24.png.crdownload",
+    "SQL/MSSQL/content/Plan_23.png",
+    "SQL/MSSQL/content/Plan_23.png.crdownload",
+    "SQL/MSSQL/content/Plan_22.png",
+    "SQL/MSSQL/content/Plan_22.png.crdownload",
+    "SQL/MSSQL/content/Plan_21.png",
+    "SQL/MSSQL/content/Plan_21.png.crdownload",
+    "SQL/MSSQL/content/Plan_20.png",
+    "SQL/MSSQL/content/Plan_20.png.crdownload",
+    "SQL/MSSQL/content/Plan_19.png",
+    "Pasted image content/Plan_1.png 1.md",
+    "Pasted image content/Plan_1.png.md",
+    "Pasted image Plan_1.png.md",
+    "SQL/Материалы для чтения.md",
+    "Ссылочная целостность является важной для баз данных.md",
+    "[[.md",
+    "1.md",
+    "2023-01-01.md",
+    "[.md",
+    "SQL/PG/Индексы в PostgreSQL ч.1.md",
+    "6.md",
+    "SQL/PG/Анатомия Connection Pooling.md",
     "SQL/PG/10 способов сделать резервную копию в PostgreSQL.md"
   ]
 }
