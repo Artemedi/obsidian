@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cab4ae0800e5d2cf",
+        "id": "ef893815bea3a36d",
         "type": "tabs",
         "children": [
           {
-            "id": "49800ea782a54bf0",
+            "id": "3007cbcc252f0ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,22 +154,23 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "49800ea782a54bf0",
+  "active": "3007cbcc252f0ec8",
   "lastOpenFiles": [
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-7.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_Z6kSNVU6cU.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-6.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_ffbkVcCTmk.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-5.png",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_QOmDplZdsD.png",
+    "SQL/test.md",
+    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 4.md",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-4.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_QPaVyCmXHn.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-3.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_oz38mEajjg.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-2.png",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_7BWL5dtlIs.png",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 4-1.png",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_qP8AdyDdFd.png",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 3.md",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 4.md",
     "SQL/BOOK/SQL Server 2022 Query Performance Tuning/Chapter 2.md",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 3-29.png",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Ssms_lFpfOjPENs.png",
-    "SQL/BOOK/SQL Server 2022 Query Performance Tuning/content/Figure 3-27.png",
     "SQL/MSSQL/Plan/Обзор планов выполнения SQL Server.md",
     "SQL/MSSQL/Plan/Типы планов выполнения SQL Server.md",
     "SQL/MSSQL/Агрегатные оконные функции T-SQL.md",
